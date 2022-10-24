@@ -1,5 +1,5 @@
 {
-  "cloud_destination_url": "https://harvardbusiness-sandbox-347.atlassian.net",
+  "cloud_destination_url": "https://your_instance_url.atlassian.net",
   "projects_filename": "project_keys.txt",
   "seconds_to_start": 5
 }

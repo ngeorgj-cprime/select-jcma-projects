@@ -17,7 +17,7 @@ def hotkey(key1, key2):
     pyautogui.hotkey(key1, key2, interval=0.10)
 
 
-def write(text, interval=0.01):
+def write(text, interval=0.00):
     pyautogui.write(text, interval=interval)
 
 
