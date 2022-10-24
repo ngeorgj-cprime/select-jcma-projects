@@ -44,6 +44,10 @@ ADA
 3. Go to the migration page (on JCMA), execute the code and **click on the migration page (to set focus)** This should happen during the time configured in "seconds_to_start".
 4. Wait for the execution.
 
+demo
+![demo gif](https://github.com/ngeorgj-cprime/select-jcma-projects/blob/main/demo/demo.gif)
+
+
 Have a good migration!
 
 Rgds,<br>
